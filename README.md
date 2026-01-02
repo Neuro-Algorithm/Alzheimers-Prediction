@@ -4,7 +4,7 @@ Alzheimer’s Disease Prediction using clinical, behavioral, and lifestyle featu
 
 ## Background
 
-Alzheimer’s disease is a progressive neurodegenerative disorder that affects memory, cognition, and behavior, ultimately impairing daily living activities. Early prediction and diagnosis are critical for clinical intervention and patient care. While neuroimaging provides valuable biomarkers, behavioral and clinical features are more accessible and can complement predictive models. Machine learning offers the ability to integrate these multidimensional features to classify individuals at risk of AD, potentially aiding early detection.
+Alzheimer’s disease is a progressive neurodegenerative disorder that affects memory, cognition, and behavior, ultimately impairing daily living activities. Early prediction and diagnosis are critical for clinical intervention and patient care. While neuroimaging provides valuable biomarkers, behavioral and clinical features are more accessible and can complement predictive models. Machine learning offers the ability to integrate these multidimensional features to classify individuals at risk of AD, and potentially aiding early detection.
 
 ---
 
